@@ -50,6 +50,10 @@ button{
     font-weight: 300;
     margin:  10px;
 }
+button:hover {
+    transform: scale(1.25);
+    color: rgb(255, 255, 255);
+}
 
 div.container{
     position: absolute;
